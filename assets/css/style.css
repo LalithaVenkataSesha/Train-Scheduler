@@ -1,0 +1,18 @@
+.jumbotron {
+    color: white;
+    background-image: url("../images/images.jpg");
+    image-width: 100%;
+}
+#heading-1 {
+    padding-left:8em;
+}
+#sub-heading {
+    padding-left:11.5em;
+}
+.T-schedule {
+background-color: dimgrey;
+}
+.add-train {
+    background-color: dimgrey;
+}
+
